@@ -1,1 +1,48 @@
 # 2021-CUAI-Summer-Conference
+
+2021년 CUAI 하계 컨퍼런스의 원활한 진행을 위해 생성된 페이지입니다.
+
+## 하계 컨퍼런스 진행 계획
+- **예선** : 제출한 Github Repo, Paper, Presentation에 대한 종합 평가
+- **본선** : 본선 진출 팀에 대해 예선 심사 결과와 Poster PT에 대한 종합 평가
+
+### 일정
+- 21.08.31(화) : 컨퍼런스 제출 마감
+- **\[NOW\] 21.09.01(수) ~ 21.09.06(월) : 예선 심사 기간** 
+- 21.09.07(화) : 본선 진출 9개 팀 발표 (세션 중 발표)
+- 21.09.14(화) 19:00 : 2021년 CUAI 하계 컨퍼런스 본선 (ZOOM, 최종 수상작 당일 발표)
+
+### 시상
+- 대상 1개 팀
+- 최우수상 2개 팀
+- 우수상 3개 팀
+- 장려상 3개 팀  
+
+\* 심사 및 상장 수여 기관 협의에 따라 조정 가능
+
+### 교수 심사위원
+- 이기성 교수님 (다빈치교양대학 조교수)
+- 이태민 교수님 (다빈치소프트웨어교육원 특임교수)
+
+---
+
+|팀|프로젝트명|Github|Paper|Presentation|
+|:---:|---|:---:|:---:|:---:|
+|1|텍스트 스타일로 MBTI 성격 예측|[Link](https://github.com/CUAI-CAU/Predicting-MBTI-Personality-through-Text-Styles)|
+|2|Self-supervised Learning on Billion unlabeled Image data|[Link](https://github.com/CUAI-CAU/Self-supervised-Learning-Research)|
+|3|Study for the amount of imports in KOTRA forecasing based on Ensemble Model with Machine Learning and Data Analysis|[Link](https://github.com/CUAI-CAU/business_A)|
+|4||[Link]()|
+|5|뉴스 기사 제목을 활용한 주가 변동여부 예측|[Link](https://github.com/CUAI-CAU/NewsHeadlinesIntoStockPric)|
+|6|서울시 소비자의 특성에 따른 요식업종 선호도 파악 및 생활지역권 내의 상권 분석을 통한 창업 가이드 제공|[Link](https://github.com/CUAI-CAU/CUAI-FINANCE-TEAM2)|
+|7|유미의 생성모델|[Link](https://github.com/CUAI-CAU/Yumis_Cells_Generator)|
+|8|Awesome Youtube Thumbnail Generator|[Link](https://github.com/CUAI-CAU/Awesome-Youtube-Thumbnail-Generator)|
+|9|||
+|10|||
+|11|뉴 노멀 시대의 문화 관광 실태 분석 및 정책 제언|[Link](https://github.com/CUAI-CAU/Cultural-Content-B)|
+|12|고객 맞춤형 웹툰 추천 시스템 제안|[Link](https://github.com/CUAI-CAU/webtoon-recommendation)|
+|13|||
+|14|반도체 제조 과정에서의 수율 향상을 위한 이진 분류 모델 비교 분석|[Link](https://github.com/CUAI-CAU/SmartFactory_B)|
+|15|TensorFlow, PyTorch를 이용한 YOLO 구현|[Link](https://github.com/CUAI-CAU/YOLOv1_implement_using_Tensorflow_or_Pytorch)|
+|16|정면 사진을 이용한 비정상 자세 검출 및 분석 시스템 연구|[Link](https://github.com/CUAI-CAU/Is_Your_Neck_OK-)|
+|17|Fake Fingerprint Generation Using Edge Connect |[Link](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation)|
+|18|||
