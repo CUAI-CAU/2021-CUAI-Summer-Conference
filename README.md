@@ -35,7 +35,7 @@
 |4|미제출(경영경제B팀)||
 |5|뉴스 기사 제목을 활용한 주가 변동여부 예측|[Link](https://github.com/CUAI-CAU/NewsHeadlinesIntoStockPric)|[pdf](paper/5팀.pdf)|[Youtube](https://youtu.be/zFVD7goNf2w)
 |6|서울시 소비자의 특성에 따른 요식업종 선호도 파악 및 생활지역권 내의 상권 분석을 통한 창업 가이드 제공|[Link](https://github.com/CUAI-CAU/CUAI-FINANCE-TEAM2)|[pdf](paper/6팀.pdf)|[Youtube](https://youtu.be/bwPZsHAqHkA)
-|7|유미의 생성모델|[Link](https://github.com/CUAI-CAU/Yumis_Cells_Generator)| coming soon\* |[Youtube](https://youtu.be/dkHpPWdyVgs)
+|7|유미의 생성모델|[Link](https://github.com/CUAI-CAU/Yumis_Cells_Generator)| [pdf](paper/7팀.pdf) |[Youtube](https://youtu.be/dkHpPWdyVgs)
 |8|Awesome Youtube Thumbnail Generator|[Link](https://github.com/CUAI-CAU/Awesome-Youtube-Thumbnail-Generator)|[pdf](paper/8팀.pdf)|[Youtube](https://youtu.be/JW3sjhy5uUE)
 |9|미제출(모빌리티C팀)||
 |10|미제출(문화콘텐츠A팀)||
