@@ -31,7 +31,7 @@
 |:---:|---|:---:|:---:|:---:|
 |1|텍스트 스타일로 MBTI 성격 예측|[Link](https://github.com/CUAI-CAU/Predicting-MBTI-Personality-through-Text-Styles)|[pdf](paper/1팀.pdf)|[Youtube](https://youtu.be/SMgJ6sH32eo)
 |2|Self-supervised Learning on Billion unlabeled Image data|[Link](https://github.com/CUAI-CAU/Self-supervised-Learning-Research)|[pdf](paper/2팀.pdf)|[Youtube](https://youtu.be/9_2RRtkrY_E)
-|3|Prediction of Korean Imports by Item and Country in 2019 Via Ensenble Learning|[Link](https://github.com/CUAI-CAU/business_A)|[pdf](paper/3팀.pdf)|[Youtube](https://youtu.be/t7cKYF3ygOg)
+|3|Prediction of Korean Imports by Item and Country in 2019 Via Ensemble Learning|[Link](https://github.com/CUAI-CAU/business_A)|[pdf](paper/3팀.pdf)|[Youtube](https://youtu.be/t7cKYF3ygOg)
 |4|미제출(경영경제B팀)||
 |5|뉴스 기사 제목을 활용한 주가 변동여부 예측|[Link](https://github.com/CUAI-CAU/NewsHeadlinesIntoStockPric)|[pdf](paper/5팀.pdf)|[Youtube](https://youtu.be/zFVD7goNf2w)
 |6|서울시 소비자의 특성에 따른 요식업종 선호도 파악 및 생활지역권 내의 상권 분석을 통한 창업 가이드 제공|[Link](https://github.com/CUAI-CAU/CUAI-FINANCE-TEAM2)|[pdf](paper/6팀.pdf)|[Youtube](https://youtu.be/bwPZsHAqHkA)
