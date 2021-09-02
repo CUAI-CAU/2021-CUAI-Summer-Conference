@@ -44,9 +44,6 @@
 |13|Auto Logo Detection|[Link](https://github.com/CUAI-CAU/SmartFactoryA)|[pdf](paper/13팀.pdf)|[Youtube](https://youtu.be/spsEE3XdDmI)
 |14|반도체 제조 과정에서의 수율 향상을 위한 이진 분류 모델 비교 분석|[Link](https://github.com/CUAI-CAU/SmartFactory_B)|[pdf](paper/14팀.pdf)|[Youtube](https://youtu.be/FgKiDByBi7s)
 |15|TensorFlow, PyTorch를 이용한 YOLO 구현|[Link](https://github.com/CUAI-CAU/YOLOv1_implement_using_Tensorflow_or_Pytorch)|[pdf](paper/15팀.pdf)|[Youtube](https://youtu.be/TCH3jjBdmTg)
-|16|정면 사진을 이용한 비정상 자세 검출 및 분석 시스템 연구|[Link](https://github.com/CUAI-CAU/Is_Your_Neck_OK-)|[pdf](paper/16팀.pdf)|coming soon\*\*
-|17|Fake Fingerprint Generation Using Edge Connect |[Link](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation)|[pdf](paper/17팀.pdf)|coming soon\*\*
+|16|정면 사진을 이용한 비정상 자세 검출 및 분석 시스템 연구|[Link](https://github.com/CUAI-CAU/Is_Your_Neck_OK-)|[pdf](paper/16팀.pdf)|[Youtube](https://youtu.be/MIXmdktvD-4)
+|17|Fake Fingerprint Generation Using Edge Connect |[Link](https://github.com/CUAI-CAU/Fake_Fingerprint_Generation)|[pdf](paper/17팀.pdf)|[Youtube](https://youtu.be/g0l_Vr6QpK4)
 |18|미제출(금융대회팀)||
-
-\* 논문 PDF 변환 에러(GIF 포함)
-\*\* Youtube 일일 업로드 개수 제한으로 인해 9월 2일 16:00 이후 업로드 예정
