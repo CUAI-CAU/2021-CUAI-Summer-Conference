@@ -41,7 +41,7 @@
 |10|미제출(문화콘텐츠A팀)||
 |11|뉴 노멀 시대의 문화 관광 실태 분석 및 정책 제언|[Link](https://github.com/CUAI-CAU/Cultural-Content-B)|[pdf](paper/11팀.pdf)|[Youtube](https://youtu.be/qK1YVro5EJ0)
 |12|고객 맞춤형 웹툰 추천 시스템 제안|[Link](https://github.com/CUAI-CAU/webtoon-recommendation)|[pdf](paper/12팀.pdf)|[Youtube](https://youtu.be/cxryvtYapvc)
-|13|미제출(스마트팩토리A팀)||
+|13|Auto Logo Detection|[Link](https://github.com/CUAI-CAU/SmartFactoryA)|[pdf](paper/13팀.pdf)|[Youtube](https://youtu.be/spsEE3XdDmI)
 |14|반도체 제조 과정에서의 수율 향상을 위한 이진 분류 모델 비교 분석|[Link](https://github.com/CUAI-CAU/SmartFactory_B)|[pdf](paper/14팀.pdf)|[Youtube](https://youtu.be/FgKiDByBi7s)
 |15|TensorFlow, PyTorch를 이용한 YOLO 구현|[Link](https://github.com/CUAI-CAU/YOLOv1_implement_using_Tensorflow_or_Pytorch)|[pdf](paper/15팀.pdf)|[Youtube](https://youtu.be/TCH3jjBdmTg)
 |16|정면 사진을 이용한 비정상 자세 검출 및 분석 시스템 연구|[Link](https://github.com/CUAI-CAU/Is_Your_Neck_OK-)|[pdf](paper/16팀.pdf)|coming soon\*\*
