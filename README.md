@@ -1,7 +1,7 @@
 # 2021-CUAI-Summer-Conference
 
 2021년 CUAI 하계 컨퍼런스의 원활한 진행을 위해 생성된 페이지입니다.  
-(Last update : 09.02 14:40)
+(Last update : 09.07 15:30)
 
 ## 하계 컨퍼런스 진행 계획
 - **예선** : 제출한 Github Repo, Paper, Presentation에 대한 종합 평가
