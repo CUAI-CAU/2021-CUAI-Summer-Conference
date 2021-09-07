@@ -27,8 +27,8 @@
 
 ---
 
-|팀|프로젝트명|Github|Paper|Presentation|
-|:---:|---|:---:|:---:|:---:|
+|팀|프로젝트명|Github|Paper|Presentation|Poster|
+|:---:|---|:---:|:---:|:---:|:---:|
 |1|텍스트 스타일로 MBTI 성격 예측|[Link](https://github.com/CUAI-CAU/Predicting-MBTI-Personality-through-Text-Styles)|[pdf](paper/1팀.pdf)|[Youtube](https://youtu.be/SMgJ6sH32eo)
 |2|Self-supervised Learning on Billion unlabeled Image data|[Link](https://github.com/CUAI-CAU/Self-supervised-Learning-Research)|[pdf](paper/2팀.pdf)|[Youtube](https://youtu.be/9_2RRtkrY_E)
 |3|Prediction of Korean Imports by Item and Country in 2019 Via Ensemble Learning|[Link](https://github.com/CUAI-CAU/business_A)|[pdf](paper/3팀.pdf)|[Youtube](https://youtu.be/t7cKYF3ygOg)
